@@ -1,0 +1,31 @@
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+List("Every", "student", "likes", "Scala").mkString
+List("Every", "student", "likes", "Scala")
+val a = List("Every", "student", "likes", "Scala")
+val a = List("Every", "student", "likes", "Scala");
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+console
+test
+scala
+console
+test

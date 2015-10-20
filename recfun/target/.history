@@ -1,0 +1,15 @@
+compile
+test
+compile
+test
+make
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+exit
+submit thdusdl1219@postech.ac.kr qe9wEru5yP
